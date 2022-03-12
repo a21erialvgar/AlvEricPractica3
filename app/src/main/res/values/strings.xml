@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AlvEricPractica3</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="titol">Marketing App</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="animal_crossing_txt">Peluix de Tom Nook (Animal Crossing)</string>
+    <string name="one_piece_txt">Peluix de Luffy (One Piece)</string>
+    <string name="luigi_txt">Peluix de Luigi (Mario Bros)</string>
+    <string name="saitama_txt">Peluix de Saitama (One Punch Man)</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
